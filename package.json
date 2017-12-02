@@ -1,0 +1,28 @@
+{
+  "name": "address-book-quiz-4ahif-tfuerholzer",
+  "version": "1.0.0",
+  "description": "A restful web-api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node contact-main.js",
+    "install" : "tsc"
+  },
+  "dependencies": {
+    "restify" : "6.3.4",
+    "pg" : "7.4.0"
+  },
+  "devDependencies": {
+    "typescript": "2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/address-book-quiz-4ahif-tfuerholzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/address-book-quiz-4ahif-tfuerholzer/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/address-book-quiz-4ahif-tfuerholzer#readme"
+}
